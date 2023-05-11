@@ -1,0 +1,35 @@
+/* css for setting bar chart height and width */
+.barChat{
+    width: 50%;
+    height: 50%;
+}
+
+/* css for table head */
+thead{
+background-color: #2699fb;
+}
+
+#tableView{
+    margin:0vh 2vw;
+}
+
+.workLess {
+    height:10px;
+    background-color: #fa9c9c;
+    width: 10px;
+    border: 1px solid;
+    margin-top: 0.5vh;
+}
+
+.workMore {
+    height:10px;
+    background-color: rgb(247, 244, 244);
+    width: 10px;
+    border: 1px solid;
+    margin-top: 0.5vh;
+}
+
+.indicatorBox {
+    margin-left: 1vw;
+    margin-top: -6vh;
+}
